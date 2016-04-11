@@ -4,7 +4,9 @@ How to use Google BigTable in your application.
 
 Simple Demo of Google BigTable Cloud Platform using google Authentication.
 
-Use Google BigTable API and Google oauth API for google Authentication.
+Use Google oauth API for google Authentication.
+
+Use Google BigTable API for accessing BigTable Service. 
 
 Demo Of Big Query
 We can get data from Google Bigtable using BigQuery in cloud.Google.com. Simple Example.
